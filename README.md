@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Marcelo Tesla
 
-[![GitHub followers](https://img.shields.io/github/followers/Honinbou02?label=Follow&style=social)](https://github.com/Honinbou02/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/M-Tesla?label=Follow&style=social)](https://github.com/M-Tesla/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/marcelo-tesla/)](https://www.linkedin.com/in/marcelo-tesla/)
-[![ProfileViews](https://komarev.com/ghpvc/?username=Honinbou02&color=00FFFF&style=flat)](https://komarev.com/ghpvc/?username=Honinbou02)
+[![ProfileViews](https://komarev.com/ghpvc/?username=M-Tesla&color=00FFFF&style=flat)](https://komarev.com/ghpvc/?username=M-Tesla)
 
 Database & Systems Engineer specializing in low-level systems programming with focus on performance-critical applications. I build high-performance data tools, database engines, network services, and system utilities from scratch using Zig, Rust, and Go. My work emphasizes zero-GC architectures, memory safety, and ultra-low latency designs that achieve orders of magnitude improvements over traditional solutions.
 
@@ -11,7 +11,7 @@ Currently building **Glacier** - a pure Zig OLAP query engine that processes Apa
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Zig](https://img.shields.io/static/v1?label=&message=Zig&color=F7A41D&logo=Zig&logoColor=FFFFFF)](https://ziglang.org/) | [![Glacier](https://img.shields.io/static/v1?label=&message=Glacier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Honinbou02/Glacier) |
+| [![Zig](https://img.shields.io/static/v1?label=&message=Zig&color=F7A41D&logo=Zig&logoColor=FFFFFF)](https://ziglang.org/) | [![Glacier](https://img.shields.io/static/v1?label=&message=Glacier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Glacier) |
 | [![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF)](https://www.rust-lang.org/) | Coming soon... |
 | [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF)](https://go.dev/) | Coming soon... |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | Coming soon... |
@@ -61,7 +61,7 @@ Currently building **Glacier** - a pure Zig OLAP query engine that processes Apa
 
 **Building the future of data processing, one Zig line at a time.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Honinbou02-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Honinbou02)
+[![GitHub](https://img.shields.io/badge/GitHub-Honinbou02-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-Tesla)
 [![Codeberg](https://img.shields.io/badge/Codeberg-M__Tesla-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/M_Tesla)
 
 </div>
