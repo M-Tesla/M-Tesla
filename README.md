@@ -61,7 +61,7 @@ Currently building **Glacier** - a pure Zig OLAP query engine that processes Apa
 
 **Building the future of data processing, one Zig line at a time.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-M-Tesla-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-Tesla)
+[![GitHub](https://img.shields.io/badge/GitHub-M--Tesla-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-Tesla)
 [![Codeberg](https://img.shields.io/badge/Codeberg-M__Tesla-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/M_Tesla)
 
 </div>
