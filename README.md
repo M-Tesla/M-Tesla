@@ -14,7 +14,7 @@ Currently building **Glacier** - a pure Zig OLAP query engine that processes Apa
 | [![Zig](https://img.shields.io/static/v1?label=&message=Zig&color=F7A41D&logo=Zig&logoColor=FFFFFF)](https://ziglang.org/) | [![Glacier](https://img.shields.io/static/v1?label=&message=Glacier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Glacier) |
 | [![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF)](https://www.rust-lang.org/) | Coming soon... |
 | [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF)](https://go.dev/) | Coming soon... |
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | [![Nerve](https://img.shields.io/static/v1?label=&message=Nerve&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Nerve) |
+| [![C](https://img.shields.io/static/v1?label=&message=C&color=00599C&logo=c&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/C_(programming_language)) | [![Nerve](https://img.shields.io/static/v1?label=&message=Nerve&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Nerve) |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | Coming soon... |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
