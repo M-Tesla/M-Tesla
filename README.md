@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Marcelo Tesla
 
-[![GitHub followers](https://img.shields.io/github/followers/M-Tesla?label=Follow&style=social)](https://github.com/M-Tesla/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/M-Tesla?label=Follow&style=social)](https://github.com/M-Tesla/?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/marcelo-tesla/)](https://www.linkedin.com/in/marcelo-tesla/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=M-Tesla&color=00FFFF&style=flat)](https://komarev.com/ghpvc/?username=M-Tesla)
 
