@@ -6,7 +6,9 @@
 
 Database & Systems Engineer specializing in low-level systems programming with focus on performance-critical applications. I build high-performance data tools, database engines, network services, and system utilities from scratch using Zig, Rust, and Go. My work emphasizes zero-GC architectures, memory safety, and ultra-low latency designs that achieve orders of magnitude improvements over traditional solutions.
 
-Currently building **Glacier** - a pure Zig OLAP query engine that processes Apache Iceberg tables and Parquet files with ~8 MB binary size, 5-50 ms cold start, and zero garbage collection pauses.
+Currently building **Glacier** and **Monolith** - Glacier is a pure Zig OLAP query engine that processes Apache Iceberg tables and Parquet files with ~8 MB binary size, 5-50 ms cold start, and zero garbage collection pauses and Monolith is a storage engine in pure Zig too, B-Tree + ACID + CoW (Copy-on-Write), my biggest and most challenging project yet.
+
+
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
