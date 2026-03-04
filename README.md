@@ -13,7 +13,7 @@ Currently building **Glacier** and **Monolith** - Glacier is a pure Zig OLAP que
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Zig](https://img.shields.io/static/v1?label=&message=Zig&color=F7A41D&logo=Zig&logoColor=FFFFFF)](https://ziglang.org/) | [![Glacier](https://img.shields.io/static/v1?label=&message=Glacier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Glacier) |
+| [![Zig](https://img.shields.io/static/v1?label=&message=Zig&color=F7A41D&logo=Zig&logoColor=FFFFFF)](https://ziglang.org/) | [![Glacier](https://img.shields.io/static/v1?label=&message=Glacier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Glacier) |-| [![Glyph](https://img.shields.io/static/v1?label=&message=Glyph&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Glyph) |
 | [![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF)](https://www.rust-lang.org/) | Coming soon... |
 | [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF)](https://go.dev/) | Coming soon... |
 | [![C](https://img.shields.io/static/v1?label=&message=C&color=00599C&logo=c&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/C_(programming_language)) | [![Nerve](https://img.shields.io/static/v1?label=&message=Nerve&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Nerve) |
