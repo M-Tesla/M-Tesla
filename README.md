@@ -16,7 +16,7 @@ Currently building **Glacier** and **Monolith** - Glacier is a pure Zig OLAP que
 | [![Zig](https://img.shields.io/static/v1?label=&message=Zig&color=F7A41D&logo=Zig&logoColor=FFFFFF)](https://ziglang.org/) | [![Glacier](https://img.shields.io/static/v1?label=&message=Glacier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Glacier) [![Glyph](https://img.shields.io/static/v1?label=&message=Glyph&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Glyph) [![Monolith](https://img.shields.io/static/v1?label=&message=Monolith&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Monolith)|
 | [![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF)](https://www.rust-lang.org/) | Coming soon... |
 | [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF)](https://go.dev/) | Coming soon... |
-| [![C](https://img.shields.io/static/v1?label=&message=C&color=00599C&logo=c&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/C_(programming_language)) | [![Nerve](https://img.shields.io/static/v1?label=&message=Nerve&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/M-Tesla/Nerve) |
+| [![C](https://img.shields.io/static/v1?label=&message=C&color=00599C&logo=c&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/C_(programming_language)) | Coming soon... |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | Coming soon... |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
